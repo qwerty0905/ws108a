@@ -1,0 +1,34 @@
+1.koa{
+    cts{
+        type{
+            text/html
+            text/plain
+        }
+        body{
+            html
+            css
+        }
+    }
+}
+2.http{
+    get 參數會顯是在網址上面 
+    post 不會在網址上面顯示只是在body上
+}
+node.js:{
+    node
+    JS 
+}
+form
+
+前端:網頁
+後端:Server
+
+
+blog
+
+markdown:格式
+markdown-it:程式,套件  使 markdown 轉換成 html
+
+
+
+
