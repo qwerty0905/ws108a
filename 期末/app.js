@@ -105,6 +105,7 @@ async function logout(ctx){
 async function main() {
     await M.open()
     app.listen(3000)
+     console.log("server run at http://localhost:3000/")
 }
 
 main()
